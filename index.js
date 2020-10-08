@@ -1,0 +1,1 @@
+console.log('Hello new fellas, this course is awesome');
